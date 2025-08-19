@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/for-a-better-freer-world/static/css/main.f855e6bc.css",
-    "main.js": "/for-a-better-freer-world/static/js/main.6ddba689.js",
+    "main.css": "/for-a-better-freer-world/static/css/main.d2a8e50b.css",
+    "main.js": "/for-a-better-freer-world/static/js/main.05cb0d66.js",
     "static/js/453.1a16ed4e.chunk.js": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js",
-    "static/media/logo.svg": "/for-a-better-freer-world/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/for-a-better-freer-world/index.html",
-    "main.f855e6bc.css.map": "/for-a-better-freer-world/static/css/main.f855e6bc.css.map",
-    "main.6ddba689.js.map": "/for-a-better-freer-world/static/js/main.6ddba689.js.map",
+    "main.d2a8e50b.css.map": "/for-a-better-freer-world/static/css/main.d2a8e50b.css.map",
+    "main.05cb0d66.js.map": "/for-a-better-freer-world/static/js/main.05cb0d66.js.map",
     "453.1a16ed4e.chunk.js.map": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6ddba689.js"
+    "static/css/main.d2a8e50b.css",
+    "static/js/main.05cb0d66.js"
   ]
 }
