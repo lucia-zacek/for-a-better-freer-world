@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/for-a-better-freer-world/static/css/main.d2a8e50b.css",
+    "main.css": "/for-a-better-freer-world/static/css/main.59fc29be.css",
     "main.js": "/for-a-better-freer-world/static/js/main.05cb0d66.js",
     "static/js/453.1a16ed4e.chunk.js": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js",
+    "static/media/KGHAPPY.ttf": "/for-a-better-freer-world/static/media/KGHAPPY.370c490e4825e2b5a2a7.ttf",
     "index.html": "/for-a-better-freer-world/index.html",
-    "main.d2a8e50b.css.map": "/for-a-better-freer-world/static/css/main.d2a8e50b.css.map",
+    "main.59fc29be.css.map": "/for-a-better-freer-world/static/css/main.59fc29be.css.map",
     "main.05cb0d66.js.map": "/for-a-better-freer-world/static/js/main.05cb0d66.js.map",
     "453.1a16ed4e.chunk.js.map": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2a8e50b.css",
+    "static/css/main.59fc29be.css",
     "static/js/main.05cb0d66.js"
   ]
 }
