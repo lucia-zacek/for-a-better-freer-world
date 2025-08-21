@@ -8,15 +8,17 @@
   justify-content: center;
   gap: 1.5rem;
 
-  width: 40%;
+  flex-basis: 40%;
+  max-width: 50rem;
   border-radius: 0.5rem;
   padding: 2rem;
+
+  z-index: 1;
 
   background-color: variables.$blue-small;
 
   .welcome-title {
     font-size: 2rem;
-    font-weight: bold;
     color: variables.$blue-dark;
   }
 
