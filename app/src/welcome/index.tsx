@@ -4,10 +4,10 @@ const Welcome = () => {
   return (
     <div className="welcome-container">
       <span className="welcome-title">
-        Welcome!
+        Happy Birthday!
       </span>
       <span className="welcome-message">
-        Hi! Placeholder message. we can add text here!
+        Hi! This is a placeholder message, we can add text here!
       </span>
     </div>
   );
