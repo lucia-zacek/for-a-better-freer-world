@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/for-a-better-freer-world/static/css/main.298f571f.css",
-    "main.js": "/for-a-better-freer-world/static/js/main.5e60375a.js",
-    "static/js/453.1a16ed4e.chunk.js": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js",
-    "static/media/KGHAPPY.ttf": "/for-a-better-freer-world/static/media/KGHAPPY.370c490e4825e2b5a2a7.ttf",
-    "index.html": "/for-a-better-freer-world/index.html",
-    "main.298f571f.css.map": "/for-a-better-freer-world/static/css/main.298f571f.css.map",
-    "main.5e60375a.js.map": "/for-a-better-freer-world/static/js/main.5e60375a.js.map",
-    "453.1a16ed4e.chunk.js.map": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js.map"
+    "main.css": "/static/css/main.35f78994.css",
+    "main.js": "/static/js/main.90093ea9.js",
+    "static/js/453.1a16ed4e.chunk.js": "/static/js/453.1a16ed4e.chunk.js",
+    "static/media/KGHAPPY.ttf": "/static/media/KGHAPPY.370c490e4825e2b5a2a7.ttf",
+    "index.html": "/index.html",
+    "main.35f78994.css.map": "/static/css/main.35f78994.css.map",
+    "main.90093ea9.js.map": "/static/js/main.90093ea9.js.map",
+    "453.1a16ed4e.chunk.js.map": "/static/js/453.1a16ed4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.298f571f.css",
-    "static/js/main.5e60375a.js"
+    "static/css/main.35f78994.css",
+    "static/js/main.90093ea9.js"
   ]
 }
