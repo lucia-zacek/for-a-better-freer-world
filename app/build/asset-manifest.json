@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/for-a-better-freer-world/static/css/main.298f571f.css",
+    "main.js": "/for-a-better-freer-world/static/js/main.5e60375a.js",
+    "static/js/453.1a16ed4e.chunk.js": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js",
+    "static/media/KGHAPPY.ttf": "/for-a-better-freer-world/static/media/KGHAPPY.370c490e4825e2b5a2a7.ttf",
+    "index.html": "/for-a-better-freer-world/index.html",
+    "main.298f571f.css.map": "/for-a-better-freer-world/static/css/main.298f571f.css.map",
+    "main.5e60375a.js.map": "/for-a-better-freer-world/static/js/main.5e60375a.js.map",
+    "453.1a16ed4e.chunk.js.map": "/for-a-better-freer-world/static/js/453.1a16ed4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298f571f.css",
+    "static/js/main.5e60375a.js"
+  ]
+}
