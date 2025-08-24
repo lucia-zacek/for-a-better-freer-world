@@ -1,0 +1,9 @@
+{
+  "short_name": "Better Freer World",
+  "name": "For a Better Freer World",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
