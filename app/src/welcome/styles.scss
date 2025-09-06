@@ -38,9 +38,15 @@
   }
 
   .family-photo {
-    width: 30rem;
+    width: 500px;
     border-color: white;
     border-style: solid;
     border-width: 0.2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .family-photo {
+    width: 85% !important;
   }
 }
